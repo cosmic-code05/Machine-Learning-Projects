@@ -25,7 +25,7 @@ A classification project that predicts whether a passenger survived the Titanic 
 
 ### 3. Customer Churn Prediction
 
-A machine learning project focused on predicting whether a customer is likely to leave a service.
+A machine learning project focused on predicting whether a customer is likely to leave a service. XGBoost is used to check whether the person will churn or not
 
 **Concepts:** Classification · Data Analysis · Predictive Modeling
 
