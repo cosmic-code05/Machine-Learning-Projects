@@ -1,6 +1,3 @@
-# Machine-Learning-Projects
-A collection of machine learning projects built using Python, scikit-learn, real-world datasets and more
-
 # Machine Learning Projects
 
 A collection of machine learning projects built to practice and apply concepts such as data preprocessing, exploratory data analysis, classification, prediction, and computer vision.
