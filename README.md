@@ -34,7 +34,6 @@ A computer vision project that uses hand gestures to control system volume and s
 **Technologies:** Python · OpenCV · MediaPipe
 
 ## Tech Stack
-
 * Python
 * Pandas
 * NumPy
