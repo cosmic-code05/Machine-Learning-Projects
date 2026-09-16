@@ -4,7 +4,6 @@ A collection of machine learning projects built to practice and apply concepts s
 ## Projects
 
 ### 1. Loan Approval Prediction
-
 A machine learning model that predicts whether a loan application is likely to be approved based on applicant and financial information.
 
 **Concepts:** Classification · Data Preprocessing · Model Evaluation
