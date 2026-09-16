@@ -1,5 +1,4 @@
 # Machine Learning Projects
-
 A collection of machine learning projects built to practice and apply concepts such as data preprocessing, exploratory data analysis, classification, prediction, and computer vision.
 
 ## Projects
