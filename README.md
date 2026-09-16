@@ -45,6 +45,8 @@ A computer vision project that uses hand gestures to control system volume and s
 
 ## About
 
+
+
 This repository documents my hands-on machine learning journey through progressively building and experimenting with different ML and computer vision projects.
 
 More projects coming soon.
